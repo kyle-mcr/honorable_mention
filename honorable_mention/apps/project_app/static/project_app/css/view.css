@@ -1,0 +1,23 @@
+body {
+  background-image: url("/static/project_app/images/sf3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+.jumbotron {
+  width: 35%;
+  margin-left: 3%;
+  margin-top: 1%;
+  border: 1px solid black;
+  height: 20%;
+  overflow: auto;
+  background-color: white;
+  margin-bottom: 5%;
+  box-shadow: 5px 5px 12px black;
+}
+a {
+  box-shadow: 3px 3px 10px black;
+}

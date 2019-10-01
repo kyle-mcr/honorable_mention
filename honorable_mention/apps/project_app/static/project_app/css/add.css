@@ -1,0 +1,48 @@
+body {
+  background-image: url("/static/project_app/images/SF.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+h1 {
+  color: rgb(228, 224, 224);
+  text-shadow: 3px 1px rgb(0, 0, 0);
+  margin-left: 3%;
+  margin-top: 2%;
+}
+
+h4 {
+  color: red;
+  margin-left: 1%;
+}
+
+.place_add {
+  display: inline-block;
+  width: 90%;
+  padding: 1%;
+  text-decoration: underline;
+}
+.container {
+  background-color: #EAEBE6;
+  width: 50%;
+  display: inline-block;
+  margin-left: 2%;
+  margin-top:2%;
+  border-radius: 15px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 12px black;
+  
+}
+button {
+  box-shadow: 3px 3px 10px black;
+}
+.errors{
+  width: 35%;
+  background-color: white;
+  color: red;
+  margin-left: 3%;
+  margin-top: 1%;
+}
